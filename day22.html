@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day 23</title>
+    <style>
+        body {
+            background: #0a192f;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        button {
+            background: transparent;
+            color: #64ffda;
+            border: 2px solid #64ffda;
+            padding: 12px 25px;
+            font-size: 18px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        /* Day 23: Hover pe button hilne lagega */
+        button:hover {
+          background: #64ffda;
+            color: #0a192f;
+          animation: hil 1.9s;
+      box-shadow:0 0 30px #64ffda;
+        }
+        /* Hilaney wala jadoo */
+        @keyframes hil{
+            0% { transform: rotate(11deg); }
+            25% { transform: rotate(11deg); }
+            50% { transform: rotate(11deg); }
+            75% { transform: rotate(-11deg); }
+            100% { transform: rotate(11deg); }
+        }
+      h1 {
+        color:cyan;
+      }
+    </style>
+</head>
+<body>
+<h1 >Hilne wali button</h1>
+    <button>Hire Me</button>
+</body>
+</html>
