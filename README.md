@@ -1,2 +1,3 @@
-# day1-html-basics
-Day 1 of 60 Days WDE Challenge - HTML Basics: headings, paragraphs, basic structure
+
+Learning HTML CSS JavaScript 
+in 60 days 
