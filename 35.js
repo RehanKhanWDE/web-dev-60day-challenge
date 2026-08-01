@@ -22,3 +22,6 @@ function white()
 {
     document.bgColor = "white"; // Reset karne ke liye
 }
+
+
+comsole.log("helo")
