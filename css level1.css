@@ -1,0 +1,20 @@
+* {
+  color : purple;
+  background : red;
+}
+#hOne {
+  color : red;
+  background : cyan;
+}
+button {
+  color : cyan;
+  background : green
+}
+#hTwo {
+  color : cyan;
+  background : pink;
+}
+.mc {
+  color:#4500d0;
+  background:#3bd000e3
+}
