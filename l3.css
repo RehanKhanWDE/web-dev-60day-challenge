@@ -48,6 +48,7 @@ left:250px;
   right
 }
 */
-body {
-  background-image: url("watch.jpg")
+#b1{
+  background-image: url("watch.jpg");
+  background-size: cover;
 }
