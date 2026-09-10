@@ -1,0 +1,59 @@
+#box {
+   background : blue;
+ /* color : white*/
+}
+/*.c {
+  color: red;
+}*/
+
+button {
+  background : green;
+}
+
+h3 {
+  text-align: center;
+  text-decoration:red double line-through ;
+}
+a {
+  text-decoration: none;
+  color : #b52500
+}
+h2 {
+  text-decoration: red wavy underline;
+  text-align: center;
+}
+#h11 {
+ font-weight: 900;
+}
+#h22 {
+  font-weight: 900;
+  font-family: Times New Roman;
+}
+#h33 {
+  font-weight: 600;
+  font-family: cursive;
+}
+
+#h44 {
+  font-weight: 900;
+  font-family: monospace;
+}
+#on {
+  font-family: monospace;
+  text-align: center;
+}
+#to {
+  font-family: cursive;
+  text-align: center;
+}
+#oo {
+  font-size: 20px;
+  line-height: normal;
+  text-transform: none;
+}
+#tt {
+  font-size: 30px;
+}
+#rr {
+  font-size: 40px;
+}
