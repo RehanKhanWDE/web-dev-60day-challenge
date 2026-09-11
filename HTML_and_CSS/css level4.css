@@ -1,0 +1,16 @@
+#d {
+  border : 10px double darkblue;
+  height: 200px;
+  width: 200px;
+  
+  margin:10px;
+   background: pink;
+  padding: 90px 94px 90px 90px;
+  border-radius: 0%;
+  
+}
+h1 {
+   border: 6px dashed;
+  background: #64ffda;
+  text-align :center;
+}
