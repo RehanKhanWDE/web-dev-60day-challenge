@@ -1,0 +1,42 @@
+
+* {
+  padding :0; 
+  margin : 0;
+  color : white;
+
+}
+#a {
+  height : 60px ;
+  background-color :#0f1111;
+  width: 1190px;
+}
+ button {
+   background : #f08804;
+ }
+#b {
+  color : #f08804;
+  font-size :25px;
+}
+a {
+  margin-right : 100px;
+}
+
+footer {
+  background: #0f1111;
+  text-align:center;
+  width:1190px;
+}
+ body{
+  background: darkslategrey;
+ }
+.cbox {
+  height: 100px;
+  width:100px;
+  border: 2px solid antiquewhite;
+  display: inline-flex;
+  
+}
+#z {
+  width:1190px;
+  height:500px
+}
